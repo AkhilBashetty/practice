@@ -1,2 +1,2 @@
 Hi this is Akhil
-I am purshuing inten at pyspider
+I am purshuing inten at pyspider on python with Data Science
